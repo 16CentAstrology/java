@@ -1,24 +1,6 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146817309-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-146817309-1');
-</script>
-
 # Java Projects
 
-*`updated 4 August 2022`*
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fjava&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
-
-## Subdirectories
-1. [Java Web Server](https://github.com/jdevstatic/lightweight-web-server/)
-2. [Java Converter App](https://github.com/jdevstatic/converter-app/)
-3. [Java Flappy Bird](https://github.com/xkcph2017x/FlappyBird)
-4. [Java Coding Problems](https://github.com/jdevstatic/java-coding-problems)
 
 ## Intro
 When you are at GitHub, every subdirectory of this repo 
@@ -26,25 +8,43 @@ is a separate sample project that you can use
 if you have a similar project.
 
 But when you are viewing this
-right now as web page in `jdevstatic.github.io` domain,
+right now as web page in `jdevfullstack.github.io` domain,
 you need to click `View on GitHub` to download the
 source codes.
 
 Thanks!
+ 
+## Disclaimer
+Please note that some of these projects are presented as a showcase
+of my work during a specific period. They represent a snapshot of my
+skills and accomplishments at that time. As such, these projects are
+no longer actively maintained or updated. These repositories contain
+a disclaimer indicating that they are archived. They are kept public
+for demonstration purposes and may not reflect my current abilities
+or the latest best practices in the field.
+
+However, feel free to learn from these archived projects, preserved
+as they were during that specific period!
+
+## Subdirectories
+1. [Java Web Server](https://github.com/jdevfullstack/lightweight-web-server/)
+2. [Java Converter App](https://github.com/jdevfullstack-projects/converter-app/)
+3. [Java Flappy Bird](https://github.com/xkcph2017x/FlappyBird)
+4. [Java Coding Problems](https://github.com/jdevfullstack/java-coding-problems)
 
 ## Java Highlights
-> - Java has an excellent reputation in web development.
->
-> - Java has a good User Interface library, the Swing and JavaFX,
+- Java has an excellent reputation in web development.
+
+- Java has a good User Interface library, the Swing and JavaFX,
 where you don't need to install external UI library for your programs.
->
-> - Java has also an excellent reputation in network programming.
->
-> - Java is excellent in modular programming through its `beans`.
->
-> - Reputable frameworks like Spring Boot and Spring are based on Java.
->
-> - Object-Oriented Programming (OOP) is truly achieved in Java programming. 
+
+- Java has also an excellent reputation in network programming.
+
+- Java is excellent in modular programming through its `beans`.
+
+- Reputable frameworks like Spring Boot and Spring are based on Java.
+
+- Object-Oriented Programming (OOP) is truly achieved in Java programming. 
 
 ## About Object-Oriented Programming (OOP)
 The C language is excellent in system programming.
@@ -76,12 +76,13 @@ when you are creating user applications like
 web apps.
 
 ## Compiling
-<https://github.com/xdvrx1/java-create-jar-exe-file-tutorial>
-
-## Contributing
-1. Fork the repo!
-2. Then, made changes and create a pull request.
-3. If not fork, just please star this. Thanks! 
+<https://github.com/jdevfullstack-tutorials/java-create-jar-exe-file>
 
 ## License
 MIT - the permissive license
+
+## More Of My Content
+- [jdevfullstack Profile](https://github.com/jdevfullstack)
+- [jdevfullstack Repos](https://github.com/jdevfullstack?tab=repositories)
+- [jdevfullstack Projects](https://github.com/jdevfullstack-projects)
+- [jdevfullstack Tutorials](https://github.com/jdevfullstack-tutorials)
